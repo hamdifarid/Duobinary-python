@@ -20,7 +20,7 @@ for i in range(0,len(a)):
         a[i]=-1      
 print(a,"Polar Input")
 print(emparra,"second")
-print(val,"exored(please ignore the last zero)")
+print(val,"exored(please ignore the last zero or one)")
 
 for i in range(0,len(a)):
     a[i]=emparra[i]+val[i]
